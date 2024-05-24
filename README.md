@@ -47,7 +47,7 @@ Welcome to the Investment Calculator project! This React-based tool is designed 
 
 1. **Clone the Repo** 📂
    ```bash
-   git clone https://github.com/yourusername/investment-calculator.git
+   git clone https://github.com/P-ks/Investment-Calculator.git
    ```
 
 2. **Install Dependencies** 📦
