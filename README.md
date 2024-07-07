@@ -32,7 +32,7 @@ Welcome to the Investment Calculator project! This React-based tool is designed 
 3. **Review Results** 📅
    - Review the detailed breakdown of your investment performance over the specified period.
 
-## Why Use This Tool 🌟
+## Why Use This Tool? 🌟
 
 - **User-Friendly Interface** 🎨
   - Intuitive and easy to use, making investment management accessible to everyone.
