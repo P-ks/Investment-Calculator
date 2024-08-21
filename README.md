@@ -18,7 +18,7 @@ Welcome to the Investment Calculator project! This React-based tool is designed 
   - Enter your expected Return on Investment (ROI) to project your potential earnings.
 
 - **Duration Tracking** ⏳
-  - Set your investment duration to see how your investments grow over time.
+  - Set your INV duration to see how your investments grow over time.
 
 ## Tech Stack 🛠️
 
