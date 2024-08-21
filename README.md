@@ -45,7 +45,7 @@ Welcome to the Investment Calculator project! This React-based tool is designed 
   - Provides reliable and precise investment growth calculations based on your inputs.
 
 - **Modern Design** 🖥️
-  - Clean, modern UI ensures a pleasant user experience.
+  - Enhanced, modern UI ensures a pleasant user experience.
 
 ## Get Started 🏁
 
