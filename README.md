@@ -1,6 +1,6 @@
 # Investment Calculator Project 🌟📈
 
-Investment Calculator project! A React-based tool is designed to help organize and optimize your invesment with ease and precision. Here's a brief overview of what this project offers:
+Investment Calculator project! A React-based tool is designed to help organize and optimize the invesment with ease and precision. Here's a brief overview of what this project offers:
 
 # Preview
 
